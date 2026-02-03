@@ -21,5 +21,3 @@ The most important new features with Java 15 are:
   - Not found in classpath or using reflection
   - Meant for framework code, *for brief use*
   - Will be garbage-collected
-- Pattern matching type checks:
-  - `instanceof` can add a *binding variable*, then the variable can be immediately referenced
